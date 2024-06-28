@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Crud</title>
+</head>
+<body>
+  <header class=" header">
+  <h1 class="header--titulo">Formulario</h1>
+  </header>
+<main class="main" id="root">
+<div class="main__contenedor"id="root_conten">
+ <form class="formulario" action="" id="formulario">
+  <label class="formulario--label" for="id">id</label>
+  <input class="formulario--input" type="number" placeholder="Ingrese su id" id="id">
+  <label class="formulario--label" for="name">Nombre</label>
+  <input class="formulario--input" type="text" placeholder="Ingrese el nombre" id="name">
+  <label class="formulario--label" for="apellido">Apellido</label>
+  <input class="formulario--input" type="text" placeholder="Ingrese su apellido" id="apellido">
+  <label class="formulario--label" for="documento">Documento</label>
+  <input class="formulario--input" type="number" placeholder="Ingrese su numero de Documento"id="documento">
+  <label class="formulario--label" for="Tipo-doc">Tipo-doc</label>
+  <select class="formulario--select" name="Tipo-doc" id="Tipo-doc">
+  </select>
+  <label class="formulario--label" for="correo">Correo</label>
+  <input class="formulario--input" type="text" placeholder="Ingrese su correo"id="correo">
+  <label class="formulario--label" for="direccion">Direccion</label>
+  <input class="formulario--input" type="" placeholder="Ingrese su direccion"id="direccion">
+  <button class="formulario--button" type="submit" id="">Enviar</button>
+ </form>
+</div>
+    <script src="app.js"></script>
+  </main>
+</body>
+</html>
