@@ -15,3 +15,12 @@ export const enviar= async(datos) =>{
     .then((response) => response.json())
     .then((json) => console.log(json));
 }
+export const listar=async()=>{
+  const data=await fetch("http://localhost:3000/user");
+  const dato=await data.json();
+  return dato
+}
+export const eliminar=async(id)=>{
+  const data= await fetch(`http://localhost:3000/user/${id}`)
+  
+}
