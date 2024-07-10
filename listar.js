@@ -1,6 +1,6 @@
 import { documento,enviar,listar,eliminar } from "/modelo.js";
 const $framento= document.createDocumentFragment();
-const $tabla=document.querySelector('#tabla1');
+const $tabla=document.querySelector('#tabla');
  function lista() {
     const $tr=document.createElement('tr');
     const $td=document.createElement('td');
