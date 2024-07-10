@@ -8,54 +8,6 @@
       "tipo_documento": "",
       "correo": "",
       "direccion": ""
-    },
-    {
-      "id": "ca38",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
-    },
-    {
-      "id": "bae4",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
-    },
-    {
-      "id": "a885",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
-    },
-    {
-      "id": "b7a5",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
-    },
-    {
-      "id": "c362",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
-    },
-    {
-      "id": "65d6",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
-    },
-    {
-      "id": "f93d",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
-    },
-    {
-      "id": "0ae6",
-      "title": "foo",
-      "body": "bar",
-      "userId": 1
     }
   ],
   "document": [
