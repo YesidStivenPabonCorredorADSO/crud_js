@@ -30,9 +30,26 @@
   <input class="formulario--input" type="text" placeholder="Ingrese su correo"id="correo">
   <label class="formulario--label" for="direccion">Direccion</label>
   <input class="formulario--input" type="" placeholder="Ingrese su direccion"id="direccion">
-  <button class="formulario--button" type="submit" id="">Enviar</button><br>
-  <a href="listar.html">Consultar Usuarios</a>
+  <button type="submit" class="formulario--button" id="">Enviar</button><br> 
  </form>
+ <!--  -->
+<template id="users">
+<tr>
+  <td class="first_name"></td>
+  <td class="last_name"></td>
+  <td class="address"></td>
+  <td class="type_id"></td>
+  <td class="document"></td>
+  <td class="email"></td>
+  <td>
+    <div class="gropu">
+      <button class="edit button">Editar</button>
+      <i class="bx bxs-trash"></i>
+    </div>
+  </td>
+</tr>
+</template>
+
 </div>
     <script type="module" src="app.js"></script>
   </main>

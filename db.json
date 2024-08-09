@@ -1,0 +1,98 @@
+{
+  "user": [
+    {
+      "id": "",
+      "nombre": "",
+      "apellido": "",
+      "documento": "",
+      "tipo_documento": "",
+      "correo": "",
+      "direccion": ""
+    },
+    {
+      "id": "04ae"
+    },
+    {
+      "id": "128f",
+      "nombre": "Sebas",
+      "apellido": "Souza Silva",
+      "documento": "213112312312312",
+      "correo": "yesidpabon145@gmail.com",
+      "tipo": "C.C",
+      "direccion": "calle 12331"
+    },
+    {
+      "id": "5795",
+      "nombre": "RoCKY",
+      "apellido": "Balboa",
+      "documento": "1231231231231",
+      "correo": "xcvxcvxc@gmail.com",
+      "tipo": "C.C",
+      "direccion": "C. Montes Urales 445"
+    },
+    {
+      "id": "9fa9",
+      "nombre": "John",
+      "apellido": "Souza Silva",
+      "documento": "213412421",
+      "correo": "sdfsdfsdf@gmail.com",
+      "tipo": "C.C",
+      "direccion": "21412124"
+    },
+    {
+      "id": "9643",
+      "nombre": "Sebas",
+      "apellido": "Doe",
+      "documento": "6654323",
+      "correo": "yesidpabon145@gmail.com",
+      "tipo": "T.I",
+      "direccion": "Av. dos Andradas, 3000"
+    },
+    {
+      "id": "1e9b",
+      "nombre": "",
+      "apellido": "",
+      "documento": "",
+      "correo": "",
+      "tipo": "T.I",
+      "direccion": ""
+    },
+    {
+      "id": "dd96",
+      "nombre": "Sebas",
+      "apellido": "Ruiz",
+      "documento": "123123123",
+      "correo": "xcvxcvxc@gmail.com",
+      "tipo": "C.C",
+      "direccion": "Av. dos Andradas, 3000"
+    },
+    {
+      "id": "d73f",
+      "nombre": "",
+      "apellido": "",
+      "documento": "",
+      "correo": "",
+      "tipo": "T.I",
+      "direccion": ""
+    },
+    {
+      "id": "e72a",
+      "nombre": "",
+      "apellido": "",
+      "documento": "",
+      "correo": "",
+      "tipo": "T.I",
+      "direccion": ""
+    }
+  ],
+  "document": [
+    {
+      "id": "1",
+      "name": "T.J"
+    },
+    {
+      "id": "2",
+      "name": "C.C"
+    }
+  ]
+}
